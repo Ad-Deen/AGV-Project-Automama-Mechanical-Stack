@@ -1,6 +1,4 @@
-# AGV-Project-Automama-Mechanical-Stack
-
-# 🚗 AGV Automama — Autonomous Campus Transport Vehicle
+# 🚗 AGV-Project-Automama-Mechanical-Stack
 
 AGV Automama is a custom-built autonomous ground vehicle (AGV) developed to demonstrate **driverless passenger transport** within a university campus. Designed and fabricated from scratch, it integrates mechanical, electrical, and software subsystems into a unified platform for autonomous mobility in semi-structured environments. 
 In this project the mechanical development phases of the project is breifly discussed. The base framework closely resembles the framework design of autorickshaws in our campus.
