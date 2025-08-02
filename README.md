@@ -20,6 +20,8 @@ Even though autorickshaws are 3 wheeler , automama was made four wheeler.
 
 ---
 
+
+
 ## 🛠 Mechanical Architecture
 
 ### 🔩 Chassis & Frame
@@ -32,7 +34,7 @@ Even though autorickshaws are 3 wheeler , automama was made four wheeler.
 - Ackermann steering mechanism for real-time angle accuracy
 - High-torque servo with gear train ensures fine angular control
 - Rotary encoder feedback for accurate steering estimation
-
+<img src="media/Screenshot 2025-07-18 112912.png" alt="AGV Automama" width="600"/>
 ### 🛑 Braking Mechanism
 - Controlled by a linear electric actuator
 - Feedback via linear position sensor (resistance-based)
