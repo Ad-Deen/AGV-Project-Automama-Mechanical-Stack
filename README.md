@@ -19,7 +19,7 @@ Even though autorickshaws are 3 wheeler , automama was made four wheeler.
   - Linear resistance module for brake position
 
 ---
-
+<img src="media/ezgif.com-optimize.gif" alt="AGV Automama" width="600"/>
 
 
 ## 🛠 Mechanical Architecture
@@ -29,19 +29,19 @@ Even though autorickshaws are 3 wheeler , automama was made four wheeler.
 - Low center-of-gravity layout for improved handling
 - Reinforced seat mounting points
 - Battery casing integrated under seating platform
-
+<img src="media/IMG_20250611_183717807_MFNR (1).jpg" alt="AGV Automama" width="600"/>
 ### 🧭 Steering System
 - Ackermann steering mechanism for real-time angle accuracy
 - High-torque servo with gear train ensures fine angular control
 - Rotary encoder feedback for accurate steering estimation
-<img src="media/Screenshot 2025-07-18 112912.png" alt="AGV Automama" width="600"/>
+<img src="media/Screenshot 2025-01-03 000553.png" alt="AGV Automama" width="600"/>
 ### 🛑 Braking Mechanism
 - Controlled by a linear electric actuator
 - Feedback via linear position sensor (resistance-based)
 - Allows precise braking control under programmatic logic
 
 ---
-
+<img src="media/Screenshot 2025-01-09 234850.png" alt="AGV Automama" width="600"/>
 ## 🧪 Use Cases
 
 AGV Automama is designed for autonomous transport in:
