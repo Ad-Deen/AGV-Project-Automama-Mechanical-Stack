@@ -49,6 +49,7 @@ AGV Automama is designed for autonomous transport in:
 - Factories & Warehouses
 - Large Residential or Hospital Grounds
 
+The 3D designs and parts are available in GrabCAD [here](https://grabcad.com/library/project-automama-1)
 ---
 
 ## 🚀 Roadmap & Future Work
