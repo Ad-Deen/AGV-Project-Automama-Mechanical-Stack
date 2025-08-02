@@ -42,24 +42,6 @@ Even though autorickshaws are 3 wheeler , automama was made four wheeler.
 
 ---
 
-## ⚡ Electrical System
-
-- **Motor Driver:** High-power BLDC driver with programmable inputs
-- **Battery Enclosure:** Secure, thermally insulated and shock-absorbing
-- **Control System:** Feedback-driven microcontroller loop (future ROS 2 integration)
-
----
-
-## 📈 Sensor Integration
-
-| Module                  | Purpose                         |
-|-------------------------|----------------------------------|
-| Rotary Encoder          | Real-time steering feedback      |
-| Linear Resistance Sensor| Brake actuator position feedback |
-| IMU & GPS *(optional)*  | Navigation & pose estimation     |
-
----
-
 ## 🧪 Use Cases
 
 AGV Automama is designed for autonomous transport in:
@@ -77,21 +59,6 @@ AGV Automama is designed for autonomous transport in:
 - [ ] Obstacle avoidance with LiDAR & stereo vision
 - [ ] Full autonomous waypoint navigation
 - [ ] GUI dashboard for remote monitoring
-
----
-
-## 📷 Media & Diagrams
-
-> *(Insert images, wiring diagrams, and mechanical drawings here)*
-
----
-
-## 👥 Credits
-
-**Project Lead:** Ad-Deen Mahbub  
-**Affiliation:** [Your University Name]  
-**Team:** Undergraduate engineering researchers  
-**Timeline:** Prototype complete; testing in progress
 
 ---
 
