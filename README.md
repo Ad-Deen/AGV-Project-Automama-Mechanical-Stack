@@ -41,7 +41,7 @@ Even though autorickshaws are 3 wheeler , automama was made four wheeler.
 - Controlled by a linear electric actuator
 - Feedback via linear position sensor (resistance-based)
 - Allows precise braking control under programmatic logic
-<img src="media/Screenshot 2025-01-09 234850.png" alt="AGV Automama" width="600"/>
+<img src="media/Ackermann test Rack & pinion.gif" alt="AGV Automama" width="600"/>
 
 ### 🛑 Stereo Vision frame
 - Custom made stereo camera pair
